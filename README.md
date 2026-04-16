@@ -1,4 +1,4 @@
-# uro-glidar
+# Collecting System, Calcium Oxalate and Uric Acid Stone Digital Renderings
 
 A high-fidelity, open-source 3D digital twin of the renal collecting system and kidney stones designed for simulated ureteroscopy and the training of computer vision models.
 
@@ -8,7 +8,7 @@ A high-fidelity, open-source 3D digital twin of the renal collecting system and 
 
 While surgical simulation is a vital tool for medical education, there is a current lack of open-source 3D models featuring highly realistic textures of the renal collecting system or common calculi. 
 
-**uro-glidar** addresses this gap by providing a virtual representation validated by endourologists for both textural and geometric accuracy. These assets serve as the foundation for:
+We addresses this gap by providing a virtual representation validated by endourologists for both textural and geometric accuracy. These assets serve as the foundation for:
 * **Digital Surgical Scenes:** Training vision models to enable computer-assisted surgery.
 * **Realistic Digital Trainers:** Allowing trainees to refine endoscopic techniques without the costs and burdens of physical simulation.
 
